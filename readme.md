@@ -19,10 +19,9 @@
 <!-- repo = 'carloscuesta/gitmoji-cli' -->
 <!-- commit = '775d84b6e48b1943fd04e8d0801b70f0417fcbae' -->
 <!-- time = '2018-10-12' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-10-12 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-10-12 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/carloscuesta/gitmoji-cli.svg
 [commit]: https://github.com/carloscuesta/gitmoji-cli/tree/775d84b6e48b1943fd04e8d0801b70f0417fcbae
@@ -35,7 +34,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
